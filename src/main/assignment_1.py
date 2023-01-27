@@ -113,7 +113,7 @@ a = -4
 b = 7
 tolerance_nr = 10**-4
 iterations_nr = 0
-x0 = 6
+x0 = 7
 
 while True:
     x1 = x0 - f.evalf(subs={x: x0})/f_prime.evalf(subs={x: x0})
