@@ -1,5 +1,15 @@
+# External Library Installation File
+
+# To run this file, open your terminal or command prompt and type:
+# python -m pip install -r requirements.txt
+
+numpy
+mkl-service
+mkl
+openblas
+sympy
+mpmath
+gmpy2
 struct
 math
-numpy
-sympy
 decimal
